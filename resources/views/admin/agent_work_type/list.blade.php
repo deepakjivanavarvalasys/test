@@ -26,7 +26,7 @@
                                         <li class="breadcrumb-item"><a href="javascript:void(0);">Campaign Settings</a></li>
                                         <li class="breadcrumb-item"><a href="javascript:void(0);">Agent Work Type Management</a></li>
                                     </ul>
-                                </div>
+                                </div> 
                             </div>
                         </div>
                     </div>
