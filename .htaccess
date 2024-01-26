@@ -20,4 +20,4 @@
     RewriteRule ^ index.php [L]
 </IfModule>
 
-test
+add test from remote to local
